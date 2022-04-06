@@ -1,4 +1,4 @@
-# api_walmart
+# MercadoLibre_Api
 
 ## Project setup
 ```
